@@ -1,0 +1,6 @@
+C:\Users\Bax\source\repos\AprendendoCSharp\Adiantando\bin\Debug\Adiantando.exe.config
+C:\Users\Bax\source\repos\AprendendoCSharp\Adiantando\bin\Debug\Adiantando.exe
+C:\Users\Bax\source\repos\AprendendoCSharp\Adiantando\bin\Debug\Adiantando.pdb
+C:\Users\Bax\source\repos\AprendendoCSharp\Adiantando\obj\Debug\Adiantando.csproj.CoreCompileInputs.cache
+C:\Users\Bax\source\repos\AprendendoCSharp\Adiantando\obj\Debug\Adiantando.exe
+C:\Users\Bax\source\repos\AprendendoCSharp\Adiantando\obj\Debug\Adiantando.pdb

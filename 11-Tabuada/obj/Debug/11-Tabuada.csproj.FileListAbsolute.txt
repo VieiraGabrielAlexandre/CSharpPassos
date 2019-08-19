@@ -1,0 +1,7 @@
+C:\Users\Bax\source\repos\AprendendoCSharp\11-Tabuada\obj\Debug\11-Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Bax\source\repos\AprendendoCSharp\11-Tabuada\bin\Debug\11-Tabuada.exe.config
+C:\Users\Bax\source\repos\AprendendoCSharp\11-Tabuada\bin\Debug\11-Tabuada.exe
+C:\Users\Bax\source\repos\AprendendoCSharp\11-Tabuada\bin\Debug\11-Tabuada.pdb
+C:\Users\Bax\source\repos\AprendendoCSharp\11-Tabuada\obj\Debug\11-Tabuada.exe
+C:\Users\Bax\source\repos\AprendendoCSharp\11-Tabuada\obj\Debug\11-Tabuada.pdb
+C:\Users\Bax\source\repos\AprendendoCSharp\11-Tabuada\obj\Debug\11-Tabuada.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\bin\Debug\Nome.exe.config
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\bin\Debug\Nome.exe
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\bin\Debug\Nome.pdb
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\obj\Debug\Nome.csprojAssemblyReference.cache
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\obj\Debug\Nome.Form1.resources
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\obj\Debug\Nome.Properties.Resources.resources
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\obj\Debug\Nome.csproj.GenerateResource.cache
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\obj\Debug\Nome.csproj.CoreCompileInputs.cache
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\obj\Debug\Nome.exe
+C:\Users\Bax\source\repos\AprendendoCSharp\Nome\obj\Debug\Nome.pdb

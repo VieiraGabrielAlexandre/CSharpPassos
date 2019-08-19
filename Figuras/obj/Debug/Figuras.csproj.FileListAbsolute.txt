@@ -1,0 +1,6 @@
+C:\Users\Bax\source\repos\AprendendoCSharp\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Bax\source\repos\AprendendoCSharp\Figuras\bin\Debug\Figuras.exe
+C:\Users\Bax\source\repos\AprendendoCSharp\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Bax\source\repos\AprendendoCSharp\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Bax\source\repos\AprendendoCSharp\Figuras\obj\Debug\Figuras.exe
+C:\Users\Bax\source\repos\AprendendoCSharp\Figuras\obj\Debug\Figuras.pdb
